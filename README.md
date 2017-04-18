@@ -1,6 +1,6 @@
 # Offline Games Challenge
 
-**Challenge Leads:** Chad Sansing, [still recruiting....]
+**Challenge Leads:** Geraldo Barros, Chad Sansing [still recruiting....]
 
 ## Description
 
