@@ -1,0 +1,3 @@
+# Offline Games Challenge Vision
+
+Gamers, activists, educators, learners, parents, and technologists help one another design childhood, playground, and table-top games that can be taught and played anywhere, anytime to teach strong online safety and digital inclusion habits. The games should be as visible or invisible as they need it to be in response to community members' access to the Internet and vulnerability to authorities who work against the open web.
