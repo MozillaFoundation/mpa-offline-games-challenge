@@ -1,6 +1,8 @@
 # Offline Games Challenge
 
-**Challenge Leads:** Geraldo Barros, Chad Sansing [still recruiting....]
+![A line-drawing icon showing a wifi signal coming from a game of tic-tac-toe](images/offline-2.png)
+
+**Challenge Leads:** Geraldo Barros (@barrosgeraldo), Chad Sansing (@chadsansing)
 
 ## Description
 
